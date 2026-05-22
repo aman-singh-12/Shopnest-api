@@ -1,0 +1,2 @@
+Github repo = https://github.com/aman-singh-12/Shopnest-api
+Render = https://shopnest-api-2m3m.onrender.com

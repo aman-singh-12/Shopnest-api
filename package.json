@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon src/index.js",
+    "start": "node src/index.js",
     "dev": "nodemon src/index.js"
   },
   "keywords": [],
@@ -19,6 +19,6 @@
     "nodemon": "^3.1.14"
   },
   "engines": {
-  "node": ">=20.0.0"
+    "node": ">=20.0.0"
   }
 }
